@@ -58,9 +58,10 @@ if _name_ == '_main_':
     
     print("Completed...")
     ep_robot.close()
-    ```
-    linear_movement.py
-    ```
+```
+linear_movement.py
+```
+
     from robomaster import robot
 import time
 
@@ -88,9 +89,10 @@ if _name_ == '_main_':
 
 
     ep_robot.close()
-    ```
-    circular_movement.py
-    ```
+```
+circular_movement.py
+
+```
     from robomaster import robot
 import time
 
